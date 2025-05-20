@@ -7,9 +7,9 @@ git clone https://github.com/ayoubalami/Geometric-Stitching.git
 
 cd Geometric-Stitching
 
-python3 -m venv venv
+python -m venv venv
 
-source venv/bin/activate
+.\venv\Scripts\activate
 
 pip install -r requirements.txt
 
